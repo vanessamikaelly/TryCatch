@@ -1,0 +1,15 @@
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.csproj.AssemblyReference.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.AssemblyInfoInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.AssemblyInfo.cs
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.csproj.CoreCompileInputs.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\bin\Debug\net6.0\TryEcatch.exe
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\bin\Debug\net6.0\TryEcatch.deps.json
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\bin\Debug\net6.0\TryEcatch.runtimeconfig.json
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\bin\Debug\net6.0\TryEcatch.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\bin\Debug\net6.0\TryEcatch.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\refint\TryEcatch.dll
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.pdb
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\TryEcatch.genruntimeconfig.cache
+C:\Users\vanes\OneDrive\PROGRAMAS.2BIMESTRE\TryEcatch\TryEcatch\obj\Debug\net6.0\ref\TryEcatch.dll
